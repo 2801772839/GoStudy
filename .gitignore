@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/go.mod
+/go.sum
+/main.go
+/test_string.go
